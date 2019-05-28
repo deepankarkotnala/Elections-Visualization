@@ -1,3 +1,3 @@
 # Elections_Visualization
 
-![](elections.gif)
+![](election.gif)
