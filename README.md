@@ -1,4 +1,4 @@
-# Elections_Visualization
+## Elections_Visualization
 
 Trend Analysis on Percentage of seats won by BJP and INC  from 1984 to 2019.
 
